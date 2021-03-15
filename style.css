@@ -1,0 +1,15 @@
+#titles {
+    background-color: pink;
+    border: 1px solid blue;
+    text-align: center;
+}
+
+.header {
+    color: blue;
+}
+
+#image {
+    height: 200px;
+    width: 200px;
+    border: 1px solid red;
+}
